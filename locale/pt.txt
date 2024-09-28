@@ -1,0 +1,42 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_22E788E6_2F3E_BCDF_41C6_40BF8A87CA46.source = https://mgtour360.com.br/
+WebFrame_0C7A2792_2CF6_FD7B_41C1_B454D9EA310E.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7110.17383728238!2d-48.63807391785231!3d-26.995800116675603!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8b7f82088e353%3A0x56dd79c14ab33b89!2zw5N0aWNhIFB1cmEgVmlzw6Nv!5e0!3m2!1spt-BR!2sbr!4v1727323515477!5m2!1spt-BR!2sbr
+WebFrame_0C7A2792_2CF6_FD7B_41C1_B454D9EA310E_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7110.17383728238!2d-48.63807391785231!3d-26.995800116675603!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94d8b7f82088e353%3A0x56dd79c14ab33b89!2zw5N0aWNhIFB1cmEgVmlzw6Nv!5e0!3m2!1spt-BR!2sbr!4v1727323515477!5m2!1spt-BR!2sbr
+
+## Media
+
+### Audio
+audiores_170762E7_22BA_370A_41C4_9967EAF1E1B5.mp3Url = media/audio_0E8312F2_2E6D_AFA3_41A3_D4AF6285574D_pt.mp3
+audiores_3470975A_38CC_B62E_41C4_370428C55EB6.mp3Url = media/audio_332C5C11_38CC_9A3B_41BE_810F5883B647_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_27226AA1_2BF5_9759_41A2_A865713DC699.label = IMG_3890 Panorama
+panorama_20F7163D_2BF5_7FA9_41C0_E4039AC2C491.label = IMG_3897 Panorama
+panorama_20F25FD6_2BF5_6CFB_41C4_6B3A1B1FBC27.label = IMG_3904 Panorama
+panorama_20F65720_2BF6_9D57_41A0_7010D0FBDA7C.label = IMG_3911 Panorama
+panorama_20F14E10_2BF6_AF77_41BB_E5D94E2C0EA7.label = IMG_3918 Panorama
+
+## Right Click Menu
+
+### Text
+menuItem_23C04EB4_2F31_94B3_4181_74D5587BAF07.label = DESENVOLVIDO POR MG TOUR 360°
+
+## Skin
+
+### Image
+Image_3D9EF928_2C15_7557_4171_42E70FB38AA1_mobile.url = skin/Image_3D9EF928_2C15_7557_4171_42E70FB38AA1_mobile_pt.png
+Image_3D9EF928_2C15_7557_4171_42E70FB38AA1.url = skin/Image_3D9EF928_2C15_7557_4171_42E70FB38AA1_pt.png
+
+## Tour
+
+### Description
+tour.description = Sejam Bem-vindos ao Tour Virtual 360º
+
+### Title
+tour.name = Ótica Pura Visão
